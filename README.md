@@ -18,8 +18,8 @@ SQL- VERSION
 <div style="width:120px">Hello</div>
 <div style="height:200px">World</div>
 <div> <ul>
-  <li> apple</li>
-  <li> pall</li>
+  <li> Apple</li>
+  <li> Pall</li>
   <li> <a href="http://www.naver.com" target="_blank">Naver</a></li>
   </ul>
   <input type="text" placeholder="이름을 입력하세요"/>
