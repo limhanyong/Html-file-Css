@@ -22,7 +22,7 @@ SQL- VERSION
   <li> Pall</li>
   <li> <a href="http://www.naver.com" target="_blank">Naver</a></li>
   </ul>
-  <input type="text" placeholder="이름을 입력하세요"/>
+  <input type="text" placeholder="이름을 입력하세요"/>이름
    <input type="text" disabled/>
   
 </tbody>
